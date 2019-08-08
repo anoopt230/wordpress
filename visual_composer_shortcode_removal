@@ -1,0 +1,11 @@
+Visual composer shortcodes appearing in various posts in latest version of wordpress
+
+This is a problem troubling many of the developers and people spend many hours to solve it.
+
+There is an easy way to stop it... Yes really...
+
+The short codes are appearing beacause of editing the page with visual composer. Go to the settings of the visual composer plugin and 
+uncheck the type of post , in which you are having trouble. now go to that particular post and try to edit it with native editor. You
+can find the short codes appearing there as text. Remove it from the editor and save.. 
+
+Thats all.. The issue is solved..
